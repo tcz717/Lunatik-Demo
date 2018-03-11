@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.fontSize": 13,
+    "python.pythonPath": "/usr/bin/python",
+    "files.associations": {
+        "*.snippet": "xml",
+        "SConscript": "python",
+        "lua.h": "c",
+        "stdlib.h": "c",
+        "inet.h": "c",
+        "lauxlib.h": "c"
+    }
+}
